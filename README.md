@@ -1,4 +1,3 @@
-```markdown
 # Docker Basics Lab
 
 A beginner-friendly lab for learning Docker on AWS Ubuntu EC2. This guide walks through:
@@ -52,7 +51,6 @@ A beginner-friendly lab for learning Docker on AWS Ubuntu EC2. This guide walks 
 1. **Update packages**:
    ```bash
    sudo apt-get update
-   ```
 
 2. **Install prerequisites**:
    ```bash
