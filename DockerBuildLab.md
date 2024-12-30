@@ -1,6 +1,3 @@
-Below is an example **README.md** structure you can use to teach students about the **Docker build** command and how to work with **Dockerfiles**. It starts with the basics (building an image from a simple Dockerfile) and progresses to more advanced concepts (build arguments, environment variables, multi-stage builds, etc.). You can copy-paste this into a `README.md` file on GitHub, then add the corresponding folders/files for each lab.
-
----
 
 # Docker Build and Dockerfile Labs
 
